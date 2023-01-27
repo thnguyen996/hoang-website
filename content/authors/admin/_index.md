@@ -52,27 +52,27 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-#    label: Follow me on Twitter
-#    display:
-#      header: true
-#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-#    icon_pack: fas
-#    link: https://scholar.google.com/citations?user=sHnWdyAAAAAJ&hl=en&oi=sra
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/thnguyen996/
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/
+    link: https://github.com/gcushen
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -81,10 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-Thai-Hoang Nguyen received the BS degree in electrical engineering from Danang University of
-Science and Technology, the University of Danang, Vietnam in 2019. He joined Sungkyunkwan
-University, Suwon, Korea, in 2019 where he is currently working toward his PhD degree in electrical
-and computer engineering. He is the recipient of STEM scholarship for international graduate student
-by Sungkyunkwan University, from 2019. His current research interests include designing robust
-architecture for emerging memory technologies, processing-in-memory and computationally efficient implementations of deep learning algorithms.
+Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}

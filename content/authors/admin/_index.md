@@ -22,7 +22,7 @@ organizations:
     url: https://www.skku.edu/eng
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include emerging non-volatile memory, deep learning algorithm, robust hardware architecture and processing-in memory.
+bio: Ph.D in Electrical and Computer Engineering
 
 # Interests to show in About widget
 interests:
@@ -77,9 +77,10 @@ email: ''
 highlight_name: true
 ---
 
-Hi, welcome to my page!!! I am a Ph.D Candidate under the supervisor of Professor Joon-Sung Yang (Yonsei Univerisy) . I received my BS degree in electrical engineering from Danang University of
-Science and Technology, Danang, Vietnam and joined Sungkyunkwan
-University, Suwon, Korea, in 2019 as a Ph.D student in [DATES Lab](https://sites.google.com/yonsei.ac.kr/dates/), Yonsei University. I am a recipient of STEM scholarship for international graduate students
-by Sungkyunkwan University, from 2019. My research interests include designing robust
+Hello, welcome to my website!!! I am a Ph.D Candidate in Electrical and Computer Engineering at
+[Sungkyunkwan University](https://www.skku.edu/eng). I received my BS degree in electrical engineering from Danang University of
+Science and Technology, Vietnam (DUT) and joined Sungkyunkwan
+University, South Korea (SKKU) in 2019 as a Ph.D student at [DATES
+Lab](https://sites.google.com/yonsei.ac.kr/dates/), under Professor Joon-Sung Yang's supervision. My research interests include designing robust
 architecture for emerging memory technologies, processing-in-memory and computationally efficient implementations of deep learning algorithms.
 {style="text-align: justify;"}

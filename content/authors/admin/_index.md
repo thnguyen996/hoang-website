@@ -1,35 +1,34 @@
 ---
 # Display name
-title: Thai-Hoang Nguyen 
+title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Thai-Hoang
-last_name: Nguyen
+first_name: Alice
+last_name: Wu
 
 # Status emoji
 status:
-   icon: ☕️
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D Candidate in Electrical and Computer Engineering
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sungkyunkwan University
-    url: https://www.skku.edu/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robust hardware design, machine learning, deep learning
-methodology and processing-in memory.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Emerging Non-Volatile Memory
-  - Processing-In Memory
-  - Artificial Intelligent 
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:

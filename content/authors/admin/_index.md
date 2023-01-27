@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Hi, welcome to my page!!! I am a Ph.D Candidate in DATES Lab, Yonsei University under the supervisor of Professor Joon-Sung Yang.
+Hi, welcome to my page!!! I am a Ph.D Candidate in [DATES Lab](https://sites.google.com/yonsei.ac.kr/dates/), Yonsei University under the supervisor of Professor Joon-Sung Yang.
 I received my BS degree in electrical engineering from Danang University of
 Science and Technology, Danang, Vietnam and joined Sungkyunkwan
 University, Suwon, Korea, in 2019 as a Ph.D student. I am a recipient of STEM scholarship for international graduate students

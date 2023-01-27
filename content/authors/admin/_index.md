@@ -22,14 +22,13 @@ organizations:
     url: https://www.skku.edu/eng
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include emerging non-volatile memory, deep learning algorithm, robust
-hardware architecture and processing-in memory.
+bio: My research interests include emerging non-volatile memory, deep learning algorithm, robust hardware architecture and processing-in memory.
 
 # Interests to show in About widget
 interests:
   - Computer Architecture
   - Emerging Memory
-  - Deep Neural Network
+  - Deep Neural Network 
 
 # Education to show in About widget
 education:

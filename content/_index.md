@@ -90,6 +90,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: publications
     content:
       title: Publications
 #      text: |-

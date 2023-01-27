@@ -14,7 +14,7 @@ main:
     url: '#accomplishments'
     weight: 30
   - name: Publications
-    url: '#filters'
+    url: '#publications'
     weight: 40
   - name: Contact
     url: '#contact'

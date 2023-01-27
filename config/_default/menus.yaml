@@ -20,7 +20,7 @@ main:
     url: '#contact'
     weight: 50
   - name: About me
-    url: '#auhors/admin'
+    url: 'auhors/admin'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

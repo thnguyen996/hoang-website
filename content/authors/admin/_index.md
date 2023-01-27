@@ -7,8 +7,8 @@ first_name: Thai-Hoang
 last_name: Nguyen
 
 # Status emoji
-# status:
-#   icon: ☕️
+status:
+   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,7 +19,7 @@ role: Ph.D Candidate in Electrical and Computer Engineering
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Sungkyunkwan University
-    url: https://www.skku.edu/eng/
+    url: https://www.skku.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robust hardware design, machine learning, deep learning
@@ -29,7 +29,7 @@ methodology and processing-in memory.
 interests:
   - Emerging Non-Volatile Memory
   - Processing-In Memory
-  - Deep Learning Algorithm 
+  - Artificial Intelligent 
 
 # Education to show in About widget
 education:

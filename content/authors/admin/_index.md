@@ -80,5 +80,10 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Thai-Hoang Nguyen received the BS degree in electrical engineering from Danang University of
+Science and Technology, the University of Danang, Vietnam in 2019. He joined Sungkyunkwan
+University, Suwon, Korea, in 2019 where he is currently working toward his PhD degree in electrical
+and computer engineering. He is the recipient of STEM scholarship for international graduate student
+by Sungkyunkwan University, from 2019. His current research interests include designing robust
+architecture for emerging memory technologies, processing-in-memory and computationally efficient implementations of deep learning algorithms.
 {style="text-align: justify;"}

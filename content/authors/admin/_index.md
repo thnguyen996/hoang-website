@@ -77,10 +77,10 @@ email: ''
 highlight_name: true
 ---
 
-Hi, welcome to my page!!! I am a Ph.D Candidate in [DATES Lab](https://sites.google.com/yonsei.ac.kr/dates/), Yonsei University under the supervisor of Professor Joon-Sung Yang.
+Hi, welcome to my page!!! I am a Ph.D Candidate under the supervisor of Professor Joon-Sung Yang (Yonsei Univerisy) .
 I received my BS degree in electrical engineering from Danang University of
 Science and Technology, Danang, Vietnam and joined Sungkyunkwan
-University, Suwon, Korea, in 2019 as a Ph.D student. I am a recipient of STEM scholarship for international graduate students
+University, Suwon, Korea, in 2019 as a Ph.D student in [DATES Lab](https://sites.google.com/yonsei.ac.kr/dates/), Yonsei University. I am a recipient of STEM scholarship for international graduate students
 by Sungkyunkwan University, from 2019. My research interests include designing robust
 architecture for emerging memory technologies, processing-in-memory and computationally efficient implementations of deep learning algorithms.
 {style="text-align: justify;"}

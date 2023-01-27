@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Thai-Hoang Nguyen 
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Thai-Hoang
+last_name: Nguyen
 
 # Status emoji
 status:

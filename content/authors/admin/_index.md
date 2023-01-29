@@ -1,55 +1,60 @@
 ---
 authors:
 - admin
-bio: PhD candidate interested in how video games and well-being relate, and using detailed behavioral data to unpack those relationships better. Looking to make science a little less broken.
+bio: PhD candidate in electrical and computer engineering
 education:
- courses:
- - course: PhD, CDT in Intelligent Games and Game Intelligence
-   institution: Queen Mary University of London
-   year: 2019–present
- - course: MPhil, Theoretical and Applied Linguistics
-   institution: University of Cambridge
-   year: 2018
- - course: BS, Linguistics and Environmental Studies
-   institution: Tulane University
-   year: 2016
+  courses:
+    - course: MS-PhD, Electrical and Computer Engineering
+      institution: SungkyunKwan University
+      year: 2019
+    - course: BSc, Electrical Engineering
+      institution: DaNang University of Science and Technology
+      year: 2014
 
-email: "nick@nickballou.com"
-interests:
-- Deep Neural Network
-- Digital trace data
-- Open research
-- Dysregulated (disordered) gaming
-- Self-determination theory
-- Intensive longitudinal methods
 name: Thai-Hoang Nguyen
+
+email: "th.nguyen@g.skku.edu"
+interests:
+- Deep neural network
+- Hardware architecture
+- Emerging non-volatile memory
+- Neural network accelerator 
+- Financial markets
+
 organizations:
-- name: "Queen Mary University of London, Intelligent Games and Game Intelligence Program"
-  url: "https://iggi.org.uk/"
-role: Psychology of Video Games PhD Researcher 
+- name: "Sungkyunkwan University, Suwon, South Korea"
+  url: "https://www.skku.edu/eng/"
+role: Ph.D in Electrical and Computer Engineering
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:nick@nickballou.com'
-- icon: mastodon
+  link: 'mailto:th.nguyen@g.skku.edu'
+- icon: github
   icon_pack: fab
-  link: https://scicomm.xyz/@nballou
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/nballou
-- icon: playstation
-  icon_pack: fab
-  link: https://psnprofiles.com/nbballou?order=last-trophy
+  link: https://github.com/thnguyen996
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=sHnWdyAAAAAJ&hl=en
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://linkedin.com/in/nballou
+# - icon: playstation
+#   icon_pack: fab
+#   link: https://psnprofiles.com/nbballou?order=last-trophy
 
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
-</br ></br ></br > Hello! I'm a PhD researcher studying well-being and video gaming, with regard to both quantity and quality of play. 
+</br ></br ></br > Hello! I'm a PhD candidate in Electrical and Computer Engineering at
+[Sungkyunkwan Univerisity](https://www.skku.edu/eng/). 
 
-A primary goal of my work is to make psychological research on games more rigorous and trustworthy. I'm deeply involved in [open science](https://nickballou.com/openscience) advocacy, training, and meta-scientific research. I serve on the QMUL Research Integrity Committee and as the Local Network Lead for the [UK Reproducibility Network](https://www.ukrn.org).
+My research focuses on improving the robustness of the emerging non-volatile memory based systems,
+including conventional computer system, non von Neumann based architecture and deep neural network
+accelerators. 
 
-I'm supervised by a delightful team: [Prof Sebastian Deterding](https://codingconduct.cc/Publications), [Dr David Zendle](https://pure.york.ac.uk/portal/en/researchers/david-zendle(127e6f28-98bb-4662-a759-369391c609e6)/publications.html), and [Dr Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/~laurissa/Laurissas_Pages/About_Me.html).
+I'm blessed to be supervised by a delightful, well-respected advisor: Professor Joon-Sung Yang at
+[DATES Lab](https://sites.google.com/yonsei.ac.kr/dates/), [Yonsei University, Seoul, South Korea](https://www.yonsei.ac.kr/en_sc/)
 
 Feel free to contact me about my research or anything else <a href="#contact">here</a>.

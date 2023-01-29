@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 30
 
 title: Publications
-subtitle: 'For a complete and up-to-date list of publications, check out my [Google Scholar](https://scholar.google.com/citations?user=jxApK7gAAAAJ&hl=en).'
+subtitle: 'For a complete and up-to-date list of publications, check out my [Google Scholar](https://scholar.google.com/citations?user=sHnWdyAAAAAJ&hl=en).'
 
 content:
   # Filter on criteria

@@ -47,14 +47,14 @@ user_groups:
 - Researchers
 - Visitors
 ---
-</br ></br ></br > Hello! I'm a PhD candidate in Electrical and Computer Engineering at
+</br ></br > Hello! I am a PhD candidate in Electrical and Computer Engineering at
 [Sungkyunkwan Univerisity](https://www.skku.edu/eng/). 
 
 My research mainly focuses on improving the robustness of emerging non-volatile memory based systems,
 including conventional computer system, non von-Neumann based architecture and deep neural network
 accelerators. 
 
-I'm blessed to be supervised by an inspiring and well-respected advisor: Professor Joon-Sung Yang at
+I am blessed to be supervised by an inspiring and well-respected advisor, Professor Joon-Sung Yang at
 [DATES Lab](https://sites.google.com/yonsei.ac.kr/dates/), [Yonsei University, Seoul, South Korea](https://www.yonsei.ac.kr/en_sc/)
 
 Feel free to contact me about my research or anything else <a href="#contact">here</a>.

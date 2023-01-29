@@ -16,13 +16,11 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: nick@nickballou.com
-  phone: +44 7367 525567
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: Twitter (DMs open)
-      link: 'https://twitter.com/nbballou'
+  email: th.nguyen@g.skku.edu
+  address:
+    street: Room 411, Engineering Research Park, Yonsei University, 50 Yonsei-ro, Sinchon-dong
+    city: Seoul
+    region: South Korea
 
 design:
   columns: '2'

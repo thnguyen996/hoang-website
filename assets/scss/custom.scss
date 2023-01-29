@@ -139,6 +139,10 @@ h2, h3 {
   animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
   animation-delay: 0ms;
 }
+.biography-title {
+  animation: slide-from-right 1.5s cubic-bezier(0.4, 0, 0.13, 1) forwards;
+  animation-delay: 0ms;
+}
 
 .btn-download {
   opacity: 0;
@@ -151,6 +155,14 @@ h2, h3 {
   .avatar-square {
   -webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
   clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+  opacity: 0;
+  position: relative;
+  right: -300px;
+  -webkit-animation: slide-left 2s cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  animation: slide-left 2s forwards cubic-bezier(0.87, 0, 0.13, 1) forwards;
+  }
+
+  .avatar-circle {
   opacity: 0;
   position: relative;
   right: -300px;
@@ -195,16 +207,16 @@ h2, h3 {
       -webkit-animation-delay: 1.3s;
               animation-delay: 1.3s;
     }
-    
-    .fa-mastodon {
+
+    .fa-github {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
       -webkit-animation-delay: 1.4s;
               animation-delay: 1.4s;
     }
-    
-    .fa-linkedin {
+
+    .fa-graduation-cap {
       opacity: 0;
       -webkit-animation: grow 2s ease forwards;
               animation: grow 2s ease forwards;
@@ -212,13 +224,6 @@ h2, h3 {
               animation-delay: 1.5s;
     }
     
-    .fa-playstation {
-      opacity: 0;
-      -webkit-animation: grow 2s ease forwards;
-              animation: grow 2s ease forwards;
-      -webkit-animation-delay: 1.6s;
-              animation-delay: 1.6s;
-    }
     
     @-webkit-keyframes grow {
         100% { opacity: 1; }

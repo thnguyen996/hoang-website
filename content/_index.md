@@ -4,6 +4,7 @@ title: Thai-Hoang Nguyen
 date: 2022-10-24
 type: landing
 
+
 sections:
   - block: about.avatar
     id: about

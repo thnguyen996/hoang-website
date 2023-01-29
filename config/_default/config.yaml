@@ -1,10 +1,11 @@
+theme: "starter-hugo-academic"
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Thai-Hoang Nguyen # Website name
-baseURL: 'https://thnguyen.netlify.com/' # Website URL
+title: Nick Ballou # Website name
+baseURL: 'https://nickballou.com/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -23,9 +24,8 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-    - path: github.com/thnguyen996/customized-website-block
+#    - path: matteo-custom
 
 ############################
 ## ADVANCED
@@ -43,6 +43,7 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
+  blog: '/blog/:slug'
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
@@ -59,6 +60,10 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  tableofcontents:
+    startLevel: 1 
+    endLevel: 4
+    ordered: false 
 related:
   threshold: 80
   includeNewer: true
@@ -72,5 +77,18 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-minify:
-  _merge: deep
+  
+  
+############################
+## CUSTOM
+############################
+
+cascade:
+  - _target:
+      path: /blog/**
+    share: false
+  - _target:
+      path: /publication/**
+    share: false
+
+lastmod: [":fileModTime", “:default”]

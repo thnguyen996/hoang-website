@@ -1,86 +1,55 @@
 ---
-# Display name
-title: Thai-Hoang Nguyen
-
-# Full name (for SEO)
-first_name: Thai-Hoang
-last_name: Nguyen
-
-# Status emoji
-# status:
-#  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Ph.D Candidate in Electrical and Computer Engineering
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Sungkyunkwan University - South Korea
-    url: https://www.skku.edu/eng
-
-# Short bio (displayed in user profile at end of posts)
-bio: Ph.D in Electrical and Computer Engineering
-
-# Interests to show in About widget
-interests:
-  - Computer Architecture
-  - Emerging Memory
-  - Deep Neural Network 
-
-# Education to show in About widget
+authors:
+- admin
+bio: PhD candidate interested in how video games and well-being relate, and using detailed behavioral data to unpack those relationships better. Looking to make science a little less broken.
 education:
-  courses:
-    - course: MS-PhD in Electrical and Computer Engineering
-      institution: SungkyunKwan University
-      year: 2019
-    - course: BSc in Electrical Engineering
-      institution: DaNang University of Science and Technology
-      year: 2014
+ courses:
+ - course: PhD, CDT in Intelligent Games and Game Intelligence
+   institution: Queen Mary University of London
+   year: 2019–present
+ - course: MPhil, Theoretical and Applied Linguistics
+   institution: University of Cambridge
+   year: 2018
+ - course: BS, Linguistics and Environmental Studies
+   institution: Tulane University
+   year: 2016
 
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+email: "nick@nickballou.com"
+interests:
+- Deep Neural Network
+- Digital trace data
+- Open research
+- Dysregulated (disordered) gaming
+- Self-determination theory
+- Intensive longitudinal methods
+name: Thai-Hoang Nguyen
+organizations:
+- name: "Queen Mary University of London, Intelligent Games and Game Intelligence Program"
+  url: "https://iggi.org.uk/"
+role: Psychology of Video Games PhD Researcher 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-#  - icon: twitter
-#    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-#    label: Follow me on Twitter
-#    display:
-#      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=sHnWdyAAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/thnguyen996
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/resume.pdf
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:nick@nickballou.com'
+- icon: mastodon
+  icon_pack: fab
+  link: https://scicomm.xyz/@nballou
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/nballou
+- icon: playstation
+  icon_pack: fab
+  link: https://psnprofiles.com/nbballou?order=last-trophy
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+superuser: true
+user_groups:
+- Researchers
+- Visitors
 ---
+</br ></br ></br > Hello! I'm a PhD researcher studying well-being and video gaming, with regard to both quantity and quality of play. 
 
-Hello, welcome to my website!!! I am a Ph.D Candidate in Electrical and Computer Engineering at
-[Sungkyunkwan University](https://www.skku.edu/eng). I received my BS degree in electrical engineering from Danang University of
-Science and Technology, Vietnam (DUT) and joined Sungkyunkwan
-University, South Korea (SKKU) in 2019 as a Ph.D student at [DATES
-Lab](https://sites.google.com/yonsei.ac.kr/dates/), under Professor Joon-Sung Yang's supervision. My research interests include designing robust
-architecture for emerging memory technologies, processing-in-memory and computationally efficient implementations of deep learning algorithms.
-{style="text-align: justify;"}
+A primary goal of my work is to make psychological research on games more rigorous and trustworthy. I'm deeply involved in [open science](https://nickballou.com/openscience) advocacy, training, and meta-scientific research. I serve on the QMUL Research Integrity Committee and as the Local Network Lead for the [UK Reproducibility Network](https://www.ukrn.org).
+
+I'm supervised by a delightful team: [Prof Sebastian Deterding](https://codingconduct.cc/Publications), [Dr David Zendle](https://pure.york.ac.uk/portal/en/researchers/david-zendle(127e6f28-98bb-4662-a759-369391c609e6)/publications.html), and [Dr Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/~laurissa/Laurissas_Pages/About_Me.html).
+
+Feel free to contact me about my research or anything else <a href="#contact">here</a>.

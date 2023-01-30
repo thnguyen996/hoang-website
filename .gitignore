@@ -1,5 +1,7 @@
 # IDEs
 .idea/
+.RData
+.Rhistory
 
 # Hugo
 resources/

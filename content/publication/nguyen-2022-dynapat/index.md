@@ -6,7 +6,7 @@ title: 'DynaPAT: A Dynamic Pattern-Aware Encoding Technique for Robust MLC PCM-B
 subtitle: ''
 summary: ''
 authors:
-- Thai-Hoang Nguyen
+- <b>Thai-Hoang Nguyen</b>
 - Muhammad Imran
 - Joon-Sung Yang
 tags: []

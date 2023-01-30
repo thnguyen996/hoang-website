@@ -3,7 +3,7 @@
 
 title: "CRAFT: Criticality-Aware Fault-Tolerance Enhancement Techniques for Emerging Memories-Based Deep Neural Networks"
 authors:
-- Thai-Hoang Nguyen
+- <b>Thai-Hoang Nguyen</b>
 - Muhammad Imran
 - Jaehyuk Choi
 - Joon-Sung Yang
@@ -27,7 +27,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 (Accepted)"
-publication_short: "(TCAD)"
+# publication_short: "(TCAD)"
 
 abstract: "Deep Neural Networks (DNNs) have emerged as the
 most effective programming paradigm for computer vision and

@@ -5,10 +5,10 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 title: Skills
 subtitle:
@@ -17,26 +17,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Process | Analyze | Visualize
-    icon: r-project
+  - description: Numpy | Matplotlib | Data Analysis
+    icon: python
     icon_pack: fab
-    name: Inferential Statistics in R
-  - description: Open data/materials/code | Registered reports <br /> Synthetic data | Team science
-    icon: osf
-    icon_pack: ai
-    name: Open Research
-  - description: Digital trace data | Surveys | Engagement
-    icon: user-astronaut
-    icon_pack: fas
-    name: (Games) User Research
-  - description: Ideate | Build | Test | Evaluate <br /> Development in Unity (C#)
-    icon: gamepad
-    icon_pack: fas
-    name: Game Design
-  - description: Self-determination theory | Intrinsic vs extrinsic motivation
+    name: Python
+  - description: Pytorch | TensorFlow | Keras
     icon: brain
     icon_pack: fas
-    name: Motivational Psychology
+    name: Deep Learning / Machine Learning Frameworks
+  - description: Verilog | C/C++ | Testing \& Verification
+    icon: memory
+    icon_pack: fas
+    name: Digital VLSI design 
+  - description: Reliability | Processing-In Memory
+    icon: hard-drive
+    icon_pack: fas
+    name: Emerging Non-volatile Memory
+  - description: Latex | Microsoft Office
+    icon: academia
+    icon_pack: ai
+    name: Academic Writing / Reviewing
   - description: Thematic analysis | Grounded theory
     icon: file-audio
     icon_pack: fas

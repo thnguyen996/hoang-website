@@ -6,7 +6,7 @@ title: Low-Cost and Effective Fault-Tolerance Enhancement Techniques for Emergin
 subtitle: ''
 summary: ''
 authors: 
-   - Thai-Hoang Nguyen
+   - <b>Thai-Hoang Nguyen</b>
    - Muhammad Imran
    - Jaehyuk Choi
    - Joon-Sung Yang

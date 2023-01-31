@@ -78,5 +78,6 @@ publication: '*17th International Symposium on Advanced Technology (ISAT-17)*'
 links:
 - name: URL
   url: https://www.kogakuin.ac.jp/isat/g8rt6a00000000fm-att/isat17_2018.pdf
+url_poster: 'https://o365skku-my.sharepoint.com/:b:/g/personal/th_nguyen_o365_skku_edu/EUOu9a7i5SdPol7YlvDBbhMBdnXChhFVfP54T1L8Jt0QaA?e=ftmlJU'
 
 ---

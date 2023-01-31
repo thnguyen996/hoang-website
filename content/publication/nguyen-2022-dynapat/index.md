@@ -51,6 +51,7 @@ publication: '*Proceedings of the 41st IEEE/ACM International Conference on Comp
 links:
 - name: URL
   url: https://dl.acm.org/doi/abs/10.1145/3508352.3549400
+url_slides: 'https://o365skku-my.sharepoint.com/:b:/g/personal/th_nguyen_o365_skku_edu/Ea9OibbzFE1HuFqMe81T5AkB_gxOLxueAaUldNfseL1Mtw?e=YiIZXJ'
 
 doi: 10.1145/3508352.3549400
 ---

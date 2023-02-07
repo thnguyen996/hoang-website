@@ -13,7 +13,7 @@ date: '2023-01-01'
 lastmod: 2023-01-27T16:35:57+09:00
 featured: false
 draft: false
-doi: ""
+doi: "10.1109/TCAD.2023.3240659"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-01-27T23:41:03+09:00
@@ -78,6 +78,10 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/10038658
+ 
 url_pdf:
 url_code:
 url_dataset:

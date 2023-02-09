@@ -18,10 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Nick Ballou, games psychology and meta-science researcher.'
-    twitter: 'nbballou'
+    description: 'Thai-Hoang nguyen, Ph.D in Electrical and Computer Engineering.'
   analytics:
-    google_analytics: 'G-RJ9TB95D0V'
     baidu_tongji: ''
   verification:
     google: ''
@@ -43,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Nick Ballou. This work is licensed under {license}.'
+    notice: '© {year} Thai-Hoang Nguyen. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: true
@@ -68,11 +66,11 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/nballou/nickballousite'
+    url: 'https://github.com/thnguyen996'
     content_dir: content
     branch: master
   avatar:
@@ -81,14 +79,14 @@ features:
   comment:
     provider: 'giscus'
     commentable: {page = true, post = true, blog = true, docs = false, project = false, publication = true, talk = false}
-    giscus:
-      repo: 'nballou/giscus'
-      repo_id: 'R_kgDOInYdlg'
-      category: 'Announcements'
-      category_id: 'DIC_kwDOInYdls4CTEjO'
-      label: 'comment'
-      theme: preferred_color_scheme
-      reactions_enabled: 0
+      #    giscus:
+      #      repo: 'nballou/giscus'
+      #      repo_id: 'R_kgDOInYdlg'
+      #      category: 'Announcements'
+      #      category_id: 'DIC_kwDOInYdls4CTEjO'
+      #      label: 'comment'
+      #      theme: preferred_color_scheme
+      #      reactions_enabled: 0
   search:
     provider: wowchemy
     algolia:

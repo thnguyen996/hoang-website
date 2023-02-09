@@ -81,16 +81,12 @@ featured: false
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/document/10038658
- 
-url_pdf:
-url_code:
-url_dataset:
-url_poster:
-url_project:
-url_slides:
-url_source:
-url_video:
 
+links:
+- icon_pack: fas
+  icon: scroll
+  name: Preprint
+  url: 'https://arxiv.org/abs/2302.03862'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

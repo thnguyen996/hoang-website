@@ -41,5 +41,7 @@ links:
 - name: URL
   url: https://doi.org/10.1109%2Fdac18074.2021.9586112
 
+url_slides: 'https://o365skku-my.sharepoint.com/:p:/g/personal/th_nguyen_o365_skku_edu/EewoKvVgNGBBnHw4SYTsNHUB0TEO7S7Xkq1Wrr6I3Amqvw?e=Wl1g2C'
 url_code: 'https://github.com/thnguyen996/fault-injection'
+
 ---

@@ -29,11 +29,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-01-27T07:35:57.186224Z'
+publishDate: '2023-07-03T07:35:57.186224Z'
 publication_types:
 - '1'
-abstract: "Emerging Non\-Volatile Memories (eNVMs) have been demonstrated as promising candidates for the deployment of Deep Neural Networks (DNNs) owing to their superior scalability, non\-volatility, and performance. However, current eNVM devices exhibit various non-idealities, which hinder their utilization in highly reliable applications. In this paper, by exploiting the intrinsic fault\-tolerability of DNNs, we propose several low-cost and efficient techniques to enhance the robustness of eNVMs\-based DNNs."
+ 
+abstract: "Emerging Non-Volatile Memories (eNVMs) have been demonstrated as promising candidates
+for the deployment of Deep Neural Networks (DNNs) owing to their superior scalability,
+non-volatility, and performance. However, current eNVM devices exhibit various non-idealities,
+which hinder their utilization in highly reliable applications.
+In this paper, by exploiting the intrinsic fault-tolerability of DNNs,
+we propose several low-cost and efficient techniques to enhance the robustness of eNVMs-based DNNs."
+
 publication: '*2023 60th ACM/IEEE Design Automation Conference (DAC) - Ph.D Forum*'
+
 links:
 - name: URL
   url: https://o365skku-my.sharepoint.com/:b:/g/personal/th_nguyen_o365_skku_edu/EYjKK5DvOY1Cpvsc9E7-1OYB2x5_uM93PM4Sx78NKG3dRQ

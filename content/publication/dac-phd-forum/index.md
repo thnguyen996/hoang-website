@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Enhancing the Robustness of eNVMs-Based DNNs using 
-Low-Cost and Efficient Hardware
+title: Enhancing the Robustness of eNVMs-Based DNNs using Low-Cost and Efficient Hardware
 subtitle: ''
 summary: ''
 authors: 
@@ -30,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-07-03T07:35:57.186224Z'
-publication_types:
-- '1'
+publication_types: ["1"]
  
 abstract: "Emerging Non-Volatile Memories (eNVMs) have been demonstrated as promising candidates
 for the deployment of Deep Neural Networks (DNNs) owing to their superior scalability,
@@ -45,5 +43,5 @@ publication: '*2023 60th ACM/IEEE Design Automation Conference (DAC) - Ph.D Foru
 links:
 - name: URL
   url: https://o365skku-my.sharepoint.com/:b:/g/personal/th_nguyen_o365_skku_edu/EYjKK5DvOY1Cpvsc9E7-1OYB2x5_uM93PM4Sx78NKG3dRQ
-
+slides: ""
 ---

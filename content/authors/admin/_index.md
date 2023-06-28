@@ -35,9 +35,9 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=sHnWdyAAAAAJ&hl=en
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://linkedin.com/in/nballou
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/thai-hoang-nguyen-49334b24b
 # - icon: playstation
 #   icon_pack: fab
 #   link: https://psnprofiles.com/nbballou?order=last-trophy

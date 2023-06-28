@@ -32,42 +32,13 @@ publishDate: '2018-11-15T07:35:57.440826Z'
 publication_types:
 - '1'
  
-abstract: "The University of Danang - Danang University of Science and Technology (UD-DUT) is one of the leading
-universites in technical training in Central of Vietnam. There are 8 lecture halls with 200 classrooms and the total
-area is 240,900 m2. However, it is difficult for students
-when they would like to find the shortest to their
-classrooms, cafeteria or self-study places.
-In order to solve this challenges, we have designed a
-self-study management system allowing students to
-find a self-study location with available space through
-an application on smartphone. Students can use the
-GPS function on their smartphone to locate their
-position, then choose the place they want to come, the
-app will show the shortest path and guide the way. This
-application can remind students schedule and time to
-return borrowed books to the library. The most
-important point is the application can run on both
-Android and iOS so that everyone can use our system.
-Figure 1 describes a summarized block diagram of
-the system. Each self-study place is monitored in
-realtime by a node consisting of an embedded
-computer Raspberry Pi 3 connected to a camera. The
-frame then will be processed using an background
-subtraction algorithm [1-3] which is embbeded in the
-node’s computer. Information from each node is then
-fowared to a gateway using LoRA wireless
-communication. The gateway then sends data to the
-cloud server by MQTT protocol. A smartphone
-application is developed to connect to the server and
-get data, then illustrate it in the app [4]. There is a
-menu with options to monitor self-study places, use a
- Figure 1: System block diagram
-service map or book return reminder. The application
-is optimized to run in as many smartphones as possible with small lag as possible.
-Experimental results show that when the internet is not stable, there will have a considerable delay in the
-application and users will have false information. Further work should solve this problem and to ensure the
-stability of the whole system. Feedback from users would help us to improve the user interface of the application.
-Deep learning algorithm will be applied to increase the accuracy of human detection at faster speed."
+abstract: "*This work is expected to appear in DAC'23 Ph.D Forum* <br>
+Emerging Non-Volatile Memories (eNVMs) have been demonstrated as promising candidates
+for the deployment of Deep Neural Networks (DNNs) owing to their superior scalability,
+non-volatility, and performance. However, current eNVM devices exhibit various non-idealities,
+which hinder their utilization in highly reliable applications.
+In this paper, by exploiting the intrinsic fault-tolerability of DNNs,
+we propose several low-cost and efficient techniques to enhance the robustness of eNVMs-based DNNs."
 
 publication: '*17th International Symposium on Advanced Technology (ISAT-17)*'
   

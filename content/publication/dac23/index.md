@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Enhancing the Robustness of eNVMs-Based DNNs using Low-Cost and Efficient Hardware
+title: "Enhancing the Robustness of eNVMs-Based 
+DNNs using Low-Cost and Efficient Hardware"
 subtitle: ''
 summary: ''
 authors: 
@@ -44,5 +45,6 @@ publication: '*2023 60th ACM/IEEE Design Automation Conference (DAC-Ph.D Forum)*
 links:
 - name: URL
   url: https://o365skku-my.sharepoint.com/:b:/g/personal/th_nguyen_o365_skku_edu/EYjKK5DvOY1Cpvsc9E7-1OYB2x5_uM93PM4Sx78NKG3dRQ
-url_poster: 'https://o365skku-my.sharepoint.com/:b:/g/personal/th_nguyen_o365_skku_edu/EeXDkHOPiFtOlNaqLcnOBW0BYjR7oVFSBlRMoAdG50iThQ?e=jVcrWi'
+url_poster: https://o365skku-my.sharepoint.com/:b:/g/personal/th_nguyen_o365_skku_edu/EeXDkHOPiFtOlNaqLcnOBW0BYjR7oVFSBlRMoAdG50iThQ?e=jVcrWi
+
 ---

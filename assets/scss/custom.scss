@@ -223,6 +223,13 @@ h2, h3 {
       -webkit-animation-delay: 1.5s;
               animation-delay: 1.5s;
     }
+    .fa-linkedin {
+      opacity: 0;
+      -webkit-animation: grow 2s ease forwards;
+              animation: grow 2s ease forwards;
+      -webkit-animation-delay: 1.6s;
+              animation-delay: 1.6s;
+    }
     
     
     @-webkit-keyframes grow {

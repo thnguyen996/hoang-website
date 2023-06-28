@@ -40,7 +40,7 @@ which hinder their utilization in highly reliable applications.
 In this paper, by exploiting the intrinsic fault-tolerability of DNNs,
 we propose several low-cost and efficient techniques to enhance the robustness of eNVMs-based DNNs."
 
-publication: '*17th International Symposium on Advanced Technology (ISAT-17)*'
+publication: '*2023 60th ACM/IEEE Design Automation Conference (DAC-Ph.D Forum)*'
   
 links:
 - name: URL

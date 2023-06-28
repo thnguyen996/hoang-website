@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Enhancing the Robustness of eNVMs-Based 
-DNNs using Low-Cost and Efficient Hardware'
+title: 'Enhancing the Robustness of eNVMs-Based DNNs using Low-Cost and Efficient Hardware'
 subtitle: ''
 summary: ''
 authors:

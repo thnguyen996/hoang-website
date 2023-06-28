@@ -5,15 +5,11 @@ title: 'Enhancing the Robustness of eNVMs-Based DNNs using Low-Cost and Efficien
 subtitle: ''
 summary: ''
 authors:
-- Loc-Minh-Phuc Le
 - <b>Thai-Hoang Nguyen</b>
-- Van-Khoi Bui
-- Tan-Hien Van
-- Nguyen-Phu-Hien Pham
-- Dinh-Thanh Ngo
+- Joon-Sung Yang
 tags: []
-categories: [Internet Of Things, Machine Learning, Computer Vision]
-date: '2023-01-01'
+categories: [Emerging Non-Volatile Memory, Stuck-At Fault, Deep Neural Network]
+date: '2023-01-07'
 lastmod: 2023-01-27T16:35:57+09:00
 featured: false
 draft: false

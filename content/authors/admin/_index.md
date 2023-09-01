@@ -47,8 +47,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-</br ></br > Hello! I am a PhD candidate in Electrical and Computer Engineering at
-[Sungkyunkwan Univerisity](https://www.skku.edu/eng/). 
+</br ></br > Welcome to my page! I am currently a post-doctoral researcher at [Yonsei University](https://www.yonsei.ac.kr/en_sc/). 
 
 My research mainly focuses on improving the robustness of emerging non-volatile memory based systems,
 including conventional computer system, non von-Neumann based architecture and deep neural network

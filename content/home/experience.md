@@ -34,6 +34,11 @@ experience:
     company: Sungkyunkwan Univerisity
     location: Suwon, South Korea
     date_start: '2019-03-01'
+    date_end: '2023-08-25'
+  - title: Post-doctoral Researcher
+    company: Yonsei University
+    location: Seoul, South Korea
+    date_start: '2023-08-25'
 
 design:
   columns: '2'

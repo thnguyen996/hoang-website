@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: my_theme
+  # theme_day: my_theme
   theme_night: my_theme
   font: custom_font
   font_size: M
@@ -59,7 +59,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: igor
+    #    theme_light: igor
     theme_dark: nord
     enable: true
     extra_languages:

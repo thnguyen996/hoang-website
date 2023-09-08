@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: th.nguyen@g.skku.edu
+  email: th.nguyen@yonsei.ac.kr
   address:
     street: Room 411, Engineering Research Park, Yonsei University, 50 Yonsei-ro, Sinchon-dong
     city: Seoul

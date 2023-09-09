@@ -22,8 +22,8 @@ interests:
 - Financial markets
 
 organizations:
-- name: "Sungkyunkwan University, Suwon, South Korea"
-  url: "https://www.skku.edu/eng/"
+- name: "Yonsei University, Seoul, South Korea"
+  url: "https://www.yonsei.ac.kr/"
 role: Ph.D in Electrical and Computer Engineering
 social:
 - icon: envelope

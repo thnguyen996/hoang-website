@@ -42,6 +42,8 @@ social:
 #   icon_pack: fab
 #   link: https://psnprofiles.com/nbballou?order=last-trophy
 
+share: true
+
 superuser: true
 user_groups:
 - Researchers

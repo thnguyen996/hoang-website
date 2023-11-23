@@ -14,6 +14,7 @@ date: '2023-11-23'
 lastmod: 2023-11-23T16:35:57+09:00
 featured: false
 draft: false
+share: true
 # doi: "xxx"
 
 # Schedule page publish date (NOT publication's date).

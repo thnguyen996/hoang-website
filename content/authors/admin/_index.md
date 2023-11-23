@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: PhD candidate in electrical and computer engineering
+bio: PhD in computer engineering
 education:
   courses:
     - course: MS-PhD, Electrical and Computer Engineering
@@ -13,7 +13,7 @@ education:
 
 name: Thai-Hoang Nguyen
 
-email: "th.nguyen@g.skku.edu"
+email: "th.nguyen@yonsei.ac.kr"
 interests:
 - Deep neural network
 - Hardware architecture
@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: "Yonsei University, Seoul, South Korea"
   url: "https://www.yonsei.ac.kr/"
-role: Ph.D in Electrical and Computer Engineering
+role: Ph.D in Computer Engineering
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,13 +47,16 @@ user_groups:
 - Researchers
 - Visitors
 ---
-</br ></br > Welcome to my page! I am currently a post-doctoral researcher at [Yonsei University](https://www.yonsei.ac.kr/en_sc/). 
 
-My research mainly focuses on improving the robustness of emerging non-volatile memory based systems,
-including conventional computer system, non von-Neumann based architecture and deep neural network
-accelerators. 
+Welcome to my page! I am currently a post-doctoral researcher at [Yonsei 
+University](https://www.yonsei.ac.kr/en_sc/) and will be joining Samsung
+Electronics as a senior engineer on January, 2024. 
 
-I am blessed to be supervised by an inspiring and well-respected advisor, Professor Joon-Sung Yang at
-[DATES Lab](https://sites.google.com/yonsei.ac.kr/dates/), [Yonsei University, Seoul, South Korea](https://www.yonsei.ac.kr/en_sc/)
+My current research mainly focuses on the development of Artificial
+Intelligence/Machine Learning (AI/ML)-assisted design automation software and
+the development of design methodologies for memory designs. During my Ph.D., my
+research was centered on improving the robustness of non-volatile memory-based
+systems. This included work on conventional computer systems, non-von
+Neumann-based architectures, and deep neural network accelerators.
 
 Feel free to contact me about my research or anything else <a href="#contact">here</a>.

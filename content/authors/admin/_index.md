@@ -48,15 +48,24 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my page! I am currently a post-doctoral researcher at [Yonsei 
-University](https://www.yonsei.ac.kr/en_sc/) and will be joining Samsung
-Electronics as a senior engineer on January, 2024. 
+Welcome to my page! I am currently a post-doctoral researcher at Yonsei
+University and will be joining Samsung Electronics as a senior engineer
+specializing in AI/ML applications in January 2024.
 
-My current research mainly focuses on the development of Artificial
-Intelligence/Machine Learning (AI/ML)-assisted design automation software and
-the development of design methodologies for memory designs. During my Ph.D., my
-research was centered on improving the robustness of non-volatile memory-based
-systems. This included work on conventional computer systems, non-von
-Neumann-based architectures, and deep neural network accelerators.
+My research interests include:
 
-Feel free to contact me about my research or anything else <a href="#contact">here</a>.
+- Development of AI/Machine Learning (AI/ML)-assisted design automation
+  software. 
+- Developing methodologies for memory design, with a focus on non-volatile
+  memory systems.
+- Enhancing the robustness of non-volatile memory-based systems, including work
+  on conventional computer systems, non-von Neumann architectures, and deep
+  neural network accelerators.
+
+Beyond my research, I am passionate about DIY projects. In my free time, I enjoy
+designing electronic circuits, building robots, developing mobile apps and
+websites, and writing blogs. These activities allow me to apply and expand my
+technical skills in fun and creative ways.
+
+Feel free to contact me about my research or for any inquiries. You can reach me
+at <a href="#contact">here</a>.

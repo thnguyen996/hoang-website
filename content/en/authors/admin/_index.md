@@ -28,7 +28,7 @@ role: Ph.D in Computer Engineering
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:th.nguyen@g.skku.edu'
+  link: 'mailto:th.nguyen@yonsei.ac.kr'
 - icon: github
   icon_pack: fab
   link: https://github.com/thnguyen996
@@ -66,8 +66,7 @@ My research interests include:
 
 Beyond my research, I am passionate about DIY projects. In my free time, I enjoy
 designing electronic circuits, building robots, developing mobile apps and
-websites, and writing blogs. These activities allow me to apply and expand my
-technical skills in fun and creative ways.
+websites, and writing blogs.
 
 Feel free to contact me about my research or for any inquiries. You can reach me
 at <a href="#contact">here</a>.

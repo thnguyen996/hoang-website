@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Kinh nghiệm làm việc
 subtitle:
 
 # Date format for experience
@@ -24,20 +24,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: BS in Electrical Engineering
-    company: Danang University of Science and Technology
-    location: Danang, Vietnam
+  - title: Kỹ sư điện - tự động hóa
+    company: Đại học bách khoa, Đại học Đà Nẵng
+    location: Đà Nẵng, Việt Nam
     date_start: '2014-02-01'
     date_end: '2019-02-01'
 
-  - title: Combined MS-PhD in Electrical and Computer Engineering
-    company: Sungkyunkwan Univerisity
-    location: Suwon, South Korea
+  - title: Nghiên cứu sinh hệ tổng hợp ThS-TS 
+    company: Trường đại học Sungkyunkwan 
+    location: Tp. Suwon, Hàn Quốc
     date_start: '2019-03-01'
     date_end: '2023-08-25'
-  - title: Post-doctoral Researcher
-    company: Yonsei University
-    location: Seoul, South Korea
+   
+  - title: Nghiên cứu sinh sau TS
+    company: Trường đại học Yonsei 
+    location: Tp. Seoul, Hàn Quốc
     date_start: '2023-08-25'
 
 design:

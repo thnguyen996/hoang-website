@@ -10,7 +10,7 @@ active: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Skills
+title: Kỹ năng
 subtitle:
 
 # Showcase personal skills or business features.
@@ -20,27 +20,27 @@ feature:
   - description: Numpy | Matplotlib | Data Analysis
     icon: python
     icon_pack: fab
-    name: Python
+    name: Lập trình python
   - description: Pytorch | TensorFlow | Keras
     icon: brain
     icon_pack: fas
-    name: Deep Learning / Machine Learning Frameworks
+    name: Lập trình AI/ML 
   - description: Verilog | C/C++ | Testing \& Verification
     icon: memory
     icon_pack: fas
-    name: Digital VLSI design 
+    name: Thiết kế mạch VLSI số 
   - description: Reliability | Processing-In Memory
     icon: hard-drive
     icon_pack: fas
-    name: Emerging Non-volatile Memory
+    name: Thiết kế mạch bộ nhớ điện tĩnh
   - description: Latex | Microsoft Office
     icon: academia
     icon_pack: ai
-    name: Academic Writing / Reviewing
-  - description: Thematic analysis | Grounded theory
+    name: Viết/Review tài liệu khoa học 
+  - description: Phân tích chuyên đề | Lỹ thuyết Ground
     icon: file-audio
     icon_pack: fas
-    name: Qualitative Methods
+    name: Phân tích định lượng
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

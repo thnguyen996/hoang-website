@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 60
 
 title: Contact
 subtitle:
@@ -18,8 +18,8 @@ content:
   # Contact details (edit or remove options as required)
   email: th.nguyen@yonsei.ac.kr
   address:
-    street: Room 411, Engineering Research Park, Yonsei University, 50 Yonsei-ro, Sinchon-dong
-    city: Seoul
+    street: 1-1 Samsungjeonja-ro, Hwaseong-si, Gyeonggi-do
+    city: Hwaseong
     region: South Korea
 
 design:

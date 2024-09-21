@@ -50,7 +50,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my page! I am currently an engineer at Memory Business,
+Welcome to my page! I am currently a researcher at Memory Business,
 Samsung Electronics. My job/research interests include:
 
 - Development of AI/Machine Learning (AI/ML)-assisted design automation

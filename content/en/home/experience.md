@@ -9,7 +9,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
@@ -41,7 +41,7 @@ experience:
     date_start: '2023-08-25'
     date_end: '2024-01-01'
   
-  - title: Front-end Engineer
+  - title: Researcher
     company: Memory Business, Samsung Electronics
     location: Hwaseong, South Korea
     date_start: '2024-01-16'
